@@ -7,7 +7,7 @@ HOWTO
 Bonne nouvelle : le calendrier est maintenant auto-actualisé. Vous vous abonnez une seule fois, et toutes les corrections de dates (selon l'observation du croissant) arrivent automatiquement dans votre téléphone. Plus besoin de réimporter à chaque changement. 🎉
 
 🔗 Lien :
-https://VOTRE-LIEN-ICI/calendrier.ics
+https://aksiam-org.github.io/calendrier/calendrier.ics
 
 📱 Sur iPhone / iPad :
 1. Réglages → Calendrier → Comptes

@@ -11,9 +11,11 @@ Bonne nouvelle : le calendrier est maintenant auto-actualisé. Vous vous abonnez
 Choisissez celle qui vous convient :
 
 **Version standard** — jours hégiriens + commémorations uniquement
+
 🔗 https://aksiam-org.github.io/calendrier/calendrier.ics
 
 **Version avec rappels du soir** 🌃 — inclut en plus un rappel la veille au soir pour chaque commémoration et chaque nuit de Muharram et Ramadan (selon la tradition islamique où le jour commence au coucher du soleil)
+
 🔗 https://aksiam-org.github.io/calendrier/calendrier_nuit.ics
 
 > 💡 En cas de doute, prenez la version avec rappels du soir — elle contient tout ce que la version standard contient, plus les marqueurs de nuit.
